@@ -91,17 +91,26 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://saif449.netlify.app)
 
-📧 Email: Alviahmedsaif321@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-Alvi01719-black?style=for-the-badge\&logo=github)](https://github.com/Alvi01719)
 
-💼 LinkedIn: https://www.linkedin.com/in/saif-khan-34ba4a24b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Khan-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saif-khan-34ba4a24b)
 
+[![Facebook](https://img.shields.io/badge/Facebook-Saif449-1877F2?style=for-the-badge\&logo=facebook)](https://www.facebook.com/Saif449)
+
+[![Instagram](https://img.shields.io/badge/Instagram-alvi__ahmed__saif-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/alvi_ahmed_saif)
+
+[![X](https://img.shields.io/badge/X-AlviahmedS10297-black?style=for-the-badge\&logo=x)](https://x.com/AlviahmedS10297)
+
+📧 Email: [Alviahmedsaif321@gmail.com](mailto:Alviahmedsaif321@gmail.com)
 
 📍 Mymensingh, Bangladesh
 
 ---
 
 ⭐ Building Security Projects & Learning Every Day.
+
+🚀 Open to Collaboration, Learning & Cyber Security Opportunities.
