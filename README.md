@@ -1,72 +1,194 @@
 <h1 align="center">👋 Hi, I'm Saif Khan</h1>
 
+<h3 align="center">
+🔐 Cyber Security Learner | 🐧 Linux Enthusiast | 💻 Web Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Learner;Linux+Enthusiast;Building+Security+Solutions;Future+SOC+Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Saif+Khan;Cyber+Security+Learner;Linux+Enthusiast;Building+Security+Projects;Future+SOC+Analyst" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alvi01719"><img src="https://komarev.com/ghpvc/?username=Alvi01719&label=Profile+Views&color=00D9FF&style=for-the-badge" /></a>
-  <a href="https://github.com/Alvi01719?tab=followers"><img src="https://img.shields.io/github/followers/Alvi01719?style=for-the-badge&logo=github&label=Followers&color=00D9FF" /></a>
+<img src="https://komarev.com/ghpvc/?username=Alvi01719&label=Profile+Views&color=0ea5e9&style=flat" />
+<img src="https://img.shields.io/github/followers/Alvi01719?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-আমি একজন **Cyber Security Learner** এবং **Linux Enthusiast**। প্রযুক্তিকে আরও নিরাপদ করার লক্ষ্য নিয়ে আমি প্রতিদিন নতুন কিছু শিখছি।
 
-- 🎓 **Diploma in Computer Science & Technology**
-- 🛡️ **Focus:** SOC, Web Security, & Ethical Hacking
-- 🐧 **Linux:** আমার প্রিয় অপারেটিং সিস্টেম এবং অ্যাডমিনিস্ট্রেশন জোন
-- ⚡ **Automation:** Python ব্যবহার করে সিকিউরিটি অটোমেশন করতে ভালোবাসি
+- 🎓 Diploma in Computer Science & Technology
+- 🔐 Passionate about Cyber Security
+- 🐧 Linux Enthusiast
+- 🌐 Front-End Web Developer
+- 🚀 Building Security Projects & Tools
+- 📚 Learning Linux, Networking, SOC & Web Security
+- 🎯 Future Cyber Security Specialist
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Alvi01719&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css,js,kali,docker,network" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css,js" />
+</p>
+
+<p align="center">
+🐧 Linux • 🔐 Security • 🌐 Networking • ⚡ Python • 🛡️ SOC
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvi01719&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvi01719&theme=tokyonight&hide_border=true" />
-</p>
+## 🎯 Cyber Security Focus
+
+```text
+🔐 Web Security
+🛡️ SOC Operations
+🐧 Linux Administration
+🌐 Network Security
+🔍 Vulnerability Assessment
+⚡ Python Automation
+```
+
+---
+
+## 🚀 Current Mission
+
+```text
+[████████░░] Linux Administration
+
+[███████░░░] Networking
+
+[██████░░░░] Python Automation
+
+[█████░░░░░] Web Security
+
+[███░░░░░░░] TryHackMe
+
+[█░░░░░░░░░] eJPT
+```
+
+---
+
+## 🛡️ Security Interests
+
+```text
+✓ Linux Security
+
+✓ Network Security
+
+✓ SOC Analysis
+
+✓ Vulnerability Assessment
+
+✓ Web Security
+
+✓ Security Automation
+```
 
 ---
 
 ## 🚀 Featured Projects
-| Project Name | Highlights |
-| :--- | :--- |
-| 🛡️ **saif-portfolio** | Personal Cyber Security Portfolio |
-| 🔎 **port-scanner-python** | Advanced Python TCP Port Scanner |
-| 🔐 **password-generator** | Highly Secure Password Tool |
-| 🐧 **linux-hardening-script** | Automated Linux Security Script |
+
+| Project | Description |
+|----------|-------------|
+| 🛡️ saif-portfolio | Personal Cyber Security Portfolio |
+| 🔎 port-scanner-python | Python TCP Port Scanner |
+| 🔐 password-generator | Secure Password Generator |
+| 📊 password-strength-checker | Password Analysis Tool |
+| 🐧 linux-hardening-script | Linux Security Automation |
+| 🌐 network-scanner | Network Discovery Tool |
 
 ---
 
-## 🎓 Learning Path & Goals
-- **Current Focus:** SOC Fundamentals & Web Security.
-- **Certifications:** Working on Cisco Cyber Security & Google Cybersecurity Professional Certificate.
-- **Milestones:** eJPT 🔜 PNPT 🔜 OSCP.
+## 📚 Currently Learning
+
+- SOC Fundamentals
+- Web Application Security
+- Linux Administration
+- Python Security Automation
+- Network Security
+- Ethical Hacking Basics
+
+---
+
+## 🎓 Certifications & Goals
+
+- 🔄 Cisco Introduction to Cyber Security
+- 🔄 Google Cybersecurity Professional Certificate
+- 🔄 TryHackMe Learning Path
+- 🎯 eJPT
+- 🎯 PNPT
+- 🎯 OSCP
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/saif-khan-34ba4a24b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Alviahmedsaif321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://saif449.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://x.com/AlviahmedS10297"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<a href="https://saif449.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Alvi01719">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saif-khan-34ba4a24b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/Saif449">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/alvi_ahmed_saif">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/AlviahmedS10297">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alvi01719&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 📫 Contact Information
 
-> 💡 *“Stay Curious. Keep Learning. Build Secure Systems.”*
+📧 Email: **Alviahmedsaif321@gmail.com**
 
-<p align="center">🚀 Open To Cyber Security Opportunities</p>
+🌐 Portfolio: **saif449.netlify.app**
+
+🐙 GitHub: **github.com/Alvi01719**
+
+💼 LinkedIn: **linkedin.com/in/saif-khan-34ba4a24b**
+
+📍 Mymensingh, Bangladesh
+
+---
+
+## 💡 Developer Mindset
+
+> "Stay Curious. Keep Learning. Build Secure Systems."
+
+> "Every Expert Was Once A Beginner."
+
+---
+
+### ⭐ Building Security Projects & Learning Every Day
+
+🔥 Open To Collaboration
+
+🚀 Open To Cyber Security Opportunities
+
+🛡️ Future Cyber Security Specialist
