@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Saif Khan 👋
 
-<!--
-**Alvi01719/Alvi01719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cyber Security Learner
+🐧 Linux Enthusiast
+💻 Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Diploma in Computer Science & Technology
+- Passionate about Cyber Security
+- Learning Linux, Networking & Web Security
+- Building Real Projects
+
+---
+
+## Skills
+
+- Linux
+- Networking
+- Cyber Security
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## Currently Learning
+
+- SOC Operations
+- TryHackMe
+- Web Security
+- Python Automation
+
+---
+
+## Connect With Me
+
+🌐 Portfolio: YOUR_PORTFOLIO_LINK
+
+📍 Mymensingh, Bangladesh
