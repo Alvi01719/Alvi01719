@@ -12,13 +12,12 @@
 ---
 
 ## 👨‍💻 About Me
-আমি একজন **Cyber Security Learner** এবং **Linux Enthusiast**। প্রযুক্তিকে আরও নিরাপদ করার লক্ষ্য নিয়ে আমি প্রতিদিন নতুন কিছু শিখছি এবং সিকিউরিটি টুলস ডেভেলপ করছি।
+আমি একজন **Cyber Security Learner** এবং **Linux Enthusiast**। প্রযুক্তিকে আরও নিরাপদ করার লক্ষ্য নিয়ে আমি প্রতিদিন নতুন কিছু শিখছি।
 
-- 🎓 Diploma in Computer Science & Technology
-- 🛡️ আগ্রহের জায়গা: SOC, Web Security, & Ethical Hacking
-- 🐧 Linux-এর গভীরে জানতে ভালোবাসি
-- ⚡ Python দিয়ে অটোমেশন করতে পছন্দ করি
-- 🎯 লক্ষ্য: একজন দক্ষ Cyber Security Specialist হওয়া
+- 🎓 **Diploma in Computer Science & Technology**
+- 🛡️ **Focus:** SOC, Web Security, & Ethical Hacking
+- 🐧 **Linux:** আমার প্রিয় অপারেটিং সিস্টেম এবং অ্যাডমিনিস্ট্রেশন জোন
+- ⚡ **Automation:** Python ব্যবহার করে সিকিউরিটি অটোমেশন করতে ভালোবাসি
 
 ---
 
@@ -29,32 +28,32 @@
 
 ---
 
-## 🚀 Featured Projects
-| Project Name | Description |
-| :--- | :--- |
-| 🛡️ **saif-portfolio** | Personal Cyber Security Portfolio |
-| 🔎 **port-scanner-python** | Python TCP Port Scanner |
-| 🔐 **password-generator** | Secure Password Generator |
-| 🐧 **linux-hardening-script** | Linux Security Automation |
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvi01719&show_icons=true&theme=tokyonight&count_private=true" alt="Saif's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvi01719&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvi01719&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvi01719&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎓 Certifications & Goals
-- 🔄 Cisco Introduction to Cyber Security
-- 🔄 Google Cybersecurity Professional Certificate
-- 🎯 eJPT | PNPT | OSCP (Learning In Progress)
+## 🚀 Featured Projects
+| Project Name | Highlights |
+| :--- | :--- |
+| 🛡️ **saif-portfolio** | Personal Cyber Security Portfolio |
+| 🔎 **port-scanner-python** | Advanced Python TCP Port Scanner |
+| 🔐 **password-generator** | Highly Secure Password Tool |
+| 🐧 **linux-hardening-script** | Automated Linux Security Script |
 
 ---
 
-## 📞 Connect With Me
+## 🎓 Learning Path & Goals
+- **Current Focus:** SOC Fundamentals & Web Security.
+- **Certifications:** Working on Cisco Cyber Security & Google Cybersecurity Professional Certificate.
+- **Milestones:** eJPT 🔜 PNPT 🔜 OSCP.
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saif-khan-34ba4a24b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Alviahmedsaif321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -64,4 +63,10 @@
 
 ---
 
-<p align="center"><i>"Stay Curious. Keep Learning. Build Secure Systems."</i></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alvi01719&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+> 💡 *“Stay Curious. Keep Learning. Build Secure Systems.”*
+
+<p align="center">🚀 Open To Cyber Security Opportunities</p>
