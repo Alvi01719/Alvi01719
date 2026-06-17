@@ -38,45 +38,60 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,git,github,html,css,js,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css,js" />
+</p>
+
+<p align="center">
+🐧 Linux • 🔐 Security • 🌐 Networking • ⚡ Python • 🛡️ SOC
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alvi01719&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvi01719&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvi01719&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 🎯 Cyber Security Roadmap
+## 🎯 Cyber Security Focus
 
 ```text
-✅ Linux Fundamentals
+🔐 Web Security
+🛡️ SOC Operations
+🐧 Linux Administration
+🌐 Network Security
+🔍 Vulnerability Assessment
+⚡ Python Automation
+```
 
-✅ Networking Basics
+---
 
-✅ Git & GitHub
+## 🚀 Current Mission
 
-🔄 Python Automation
+```text
+[████████░░] Linux Administration
 
-🔄 Web Security
+[███████░░░] Networking
 
-🔄 TryHackMe
+[██████░░░░] Python Automation
 
-🎯 eJPT
+[█████░░░░░] Web Security
 
-🎯 PNPT
+[███░░░░░░░] TryHackMe
 
-🎯 OSCP
+[█░░░░░░░░░] eJPT
+```
+
+---
+
+## 🛡️ Security Interests
+
+```text
+✓ Linux Security
+
+✓ Network Security
+
+✓ SOC Analysis
+
+✓ Vulnerability Assessment
+
+✓ Web Security
+
+✓ Security Automation
 ```
 
 ---
@@ -121,7 +136,7 @@
 <p align="center">
 
 <a href="https://saif449.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Alvi01719">
@@ -141,7 +156,7 @@
 </a>
 
 <a href="https://x.com/AlviahmedS10297">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
@@ -152,13 +167,13 @@
 
 📧 Email: **Alviahmedsaif321@gmail.com**
 
-🌐 Portfolio: **https://saif449.netlify.app**
+🌐 Portfolio: **saif449.netlify.app**
 
-🐙 GitHub: **https://github.com/Alvi01719**
+🐙 GitHub: **github.com/Alvi01719**
 
-💼 LinkedIn: **https://www.linkedin.com/in/saif-khan-34ba4a24b**
+💼 LinkedIn: **linkedin.com/in/saif-khan-34ba4a24b**
 
-📍 Location: **Mymensingh, Bangladesh**
+📍 Mymensingh, Bangladesh
 
 ---
 
