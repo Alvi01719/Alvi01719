@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Saif+Khan;Cyber+Security+Learner;Linux+Enthusiast;Building+Security+Projects;Future+SOC+Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cyber+Security+Learner;Linux+Enthusiast;Building+Security+Projects;Future+SOC+Analyst;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -18,20 +18,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 Diploma in Computer Science & Technology
-- 🔐 Passionate about Cyber Security
+- 🔐 Passionate About Cyber Security
 - 🐧 Linux Enthusiast
 - 🌐 Front-End Web Developer
 - 🚀 Building Security Projects & Tools
 - 📚 Learning Linux, Networking, SOC & Web Security
 - 🎯 Future Cyber Security Specialist
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Alvi01719&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -47,51 +39,50 @@
 
 ---
 
-## 🎯 Cyber Security Focus
+## 📊 GitHub Analytics
 
-```text
-🔐 Web Security
-🛡️ SOC Operations
-🐧 Linux Administration
-🌐 Network Security
-🔍 Vulnerability Assessment
-⚡ Python Automation
-```
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alvi01719&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvi01719&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 Current Mission
+## 💭 Cyber Security Philosophy
 
-```text
-[████████░░] Linux Administration
+> "Security is not a product, it's a process."
+>
+> — Bruce Schneier
 
-[███████░░░] Networking
+<br>
 
-[██████░░░░] Python Automation
-
-[█████░░░░░] Web Security
-
-[███░░░░░░░] TryHackMe
-
-[█░░░░░░░░░] eJPT
-```
+> "The quieter you become, the more you are able to hear."
+>
+> — Cyber Security Mindset
 
 ---
 
-## 🛡️ Security Interests
+## 🎯 Cyber Security Roadmap
 
 ```text
-✓ Linux Security
+✅ Linux Fundamentals
 
-✓ Network Security
+✅ Networking Basics
 
-✓ SOC Analysis
+✅ Git & GitHub
 
-✓ Vulnerability Assessment
+🔄 Python Automation
 
-✓ Web Security
+🔄 Web Security
 
-✓ Security Automation
+🔄 TryHackMe
+
+🎯 eJPT
+
+🎯 PNPT
+
+🎯 OSCP
 ```
 
 ---
@@ -101,7 +92,7 @@
 | Project | Description |
 |----------|-------------|
 | 🛡️ saif-portfolio | Personal Cyber Security Portfolio |
-| 🔎 port-scanner-python | Python TCP Port Scanner |
+| 🔍 port-scanner-python | Python TCP Port Scanner |
 | 🔐 password-generator | Secure Password Generator |
 | 📊 password-strength-checker | Password Analysis Tool |
 | 🐧 linux-hardening-script | Linux Security Automation |
@@ -136,7 +127,7 @@
 <p align="center">
 
 <a href="https://saif449.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Alvi01719">
@@ -177,6 +168,20 @@
 
 ---
 
+## 🚀 Current Goal
+
+✔ Build Real Cyber Security Projects
+
+✔ Learn SOC Operations
+
+✔ Complete TryHackMe Paths
+
+✔ Master Linux Administration
+
+✔ Prepare For eJPT Certification
+
+---
+
 ## 💡 Developer Mindset
 
 > "Stay Curious. Keep Learning. Build Secure Systems."
@@ -185,10 +190,31 @@
 
 ---
 
-### ⭐ Building Security Projects & Learning Every Day
+## ⭐ Fun Fact
 
-🔥 Open To Collaboration
+```bash
+while(alive){
+    learn();
+    build();
+    secure();
+    repeat();
+}
+```
 
-🚀 Open To Cyber Security Opportunities
+---
 
-🛡️ Future Cyber Security Specialist
+### 🔥 Building Security Projects & Learning Every Day
+
+🛡️ Open To Cyber Security Opportunities
+
+🤝 Open To Collaboration
+
+🚀 Future SOC Analyst
+
+⚡ Future Ethical Hacker
+
+---
+
+<p align="center">
+<i>Thanks for visiting my GitHub Profile ❤️</i>
+</p>
